@@ -3,6 +3,7 @@
 #include <iomanip>
 #include <vector>
 #include <Windows.h>
+#include<math.io>
 using namespace std;
 
 int main() {
